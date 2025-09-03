@@ -13,5 +13,5 @@ int main() {
 	
 	cout << "Valor alocado: " << *ptr << endl;
 	
-	delete ptr;
+	delete ptr;1
 }

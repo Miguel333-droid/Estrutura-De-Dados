@@ -9,7 +9,7 @@ int main() {
         cin >> arr[i];  
     }
 
-    cout << "Os números digitados foram:\n";
+    cout << "Os nu meros digitados foram:\n";
     for (int i = 0; i < 10; i++) {
         cout << arr[i] << " ";  
     }
